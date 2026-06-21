@@ -1,7 +1,7 @@
 # Assignment: DES
 
 ## Course / Module
-ICT 4105 - Cryptography and Cyber Law by [Prof. Dr. Ziaur Rahman]([https://google.com](https://rahmanziaur.github.io/))
+ICT 4105 - Cryptography and Cyber Law by [[Prof. Dr. Ziaur Rahman](https://rahmanziaur.github.io/))
 
 Develop a Java application that implements the **Data Encryption Standard (DES)** algorithm to perform both **encryption** and **decryption** of text messages. The program should provide a simple user interface where users can enter either a **plaintext** and a **secret key** to generate the corresponding **ciphertext**, or a **ciphertext** and the same **secret key** to recover the original plaintext. The application should validate that the DES key is exactly **8 characters (64 bits)**, use Java's built-in Cryptography Architecture (JCA) libraries for DES operations, and display the input and output clearly. The functionality should be similar to the sample online tool provided, allowing users to switch between encryption and decryption modes while demonstrating the practical application of symmetric-key cryptography. The program should be well-structured using appropriate classes and methods, include proper exception handling, and follow object-oriented programming principles.
 
@@ -13,6 +13,8 @@ Here is another popular site: https://www.cryptool.org/en/cto/
 ---
 
 Please note that Java Class Name: DESCipher.java
+
+If you are not sure about the latest commit of this file: Clcik here https://github.com/ICTMBSTUZia/CryptoTemplateRepo/blob/main/Readme.md
 
 ## Sample Input
 
