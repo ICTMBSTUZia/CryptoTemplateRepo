@@ -1,5 +1,7 @@
 # Assignment: DES
 
+Link: https://classroom.github.com/a/X892tFTs 
+
 ## Course / Module
 ICT 4105 - Cryptography and Cyber Law by [[Prof. Dr. Ziaur Rahman](https://rahmanziaur.github.io/))
 
@@ -12,7 +14,7 @@ Here is another popular site: https://www.cryptool.org/en/cto/
 
 ---
 
-Please note that Java Class Name: DESCipher.java
+Please note that Java Class Name: **DESCipher.java** Just upload the file to your classroom repository. 
 
 If you are not sure about the latest commit of this file: Clcik here https://github.com/ICTMBSTUZia/CryptoTemplateRepo/blob/main/Readme.md
 
